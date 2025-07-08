@@ -1,3 +1,12 @@
 I am a bug fix file for example only......
 
 another bug fix in header
+
+some more bug detected and fixed..
+
+
+fourth bug fixed.....
+
+five bug fix
+
+i fixed one more error........
